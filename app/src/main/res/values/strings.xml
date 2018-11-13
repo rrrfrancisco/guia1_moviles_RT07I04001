@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="lblresultado">Resultado</string>
+    <string name="btnAC">AC</string>
+    <string name="btnDEL">DEL</string>
+    <string name="btnsuma">+</string>
+    <string name="btnproducto">*</string>
+    <string name="btndiv">/</string>
+    <string name="btnresta">-</string>
+    <string name="btnnum1">1</string>
+    <string name="btnnum2">2</string>
+    <string name="btnnum3">3</string>
+    <string name="btnnum0">0</string>
+    <string name="btnnum4">4</string>
+    <string name="btnnum5">5</string>
+    <string name="btnnum6">6</string>
+    <string name="btnnum7">7</string>
+    <string name="btnnum8">8</string>
+    <string name="btnnum9">9</string>
+    <string name="btnigual">=</string>
+</resources>
